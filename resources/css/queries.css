@@ -61,7 +61,7 @@
     .work div{
         height: 40px;
         width: 40px;
-        margin-right: 15px;
+        margin-right: 5px;
         padding: 4px;
         font-size: 120%;
     }
@@ -70,6 +70,9 @@
     .social-link{
         float: none;
     }
+   .work{
+    height: 40px;
+   }
     
 }
 

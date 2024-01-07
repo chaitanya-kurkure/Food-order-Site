@@ -23,7 +23,7 @@ header{
     height: 100vh;
     background-size: cover;
     background-position: center;
-
+    
 }
 #h{
     margin-top: 0px;
@@ -195,6 +195,7 @@ h3{
 .work{
     margin-bottom: 50px;
     margin-right: 25px;
+    border: 0;
 }
 .step-box:first-child{
     text-align: center;
@@ -233,6 +234,7 @@ h3{
     margin-right: 10px;
     border-radius: 5px;
 }
+
 .btn-app:link,
 .btn-app:visited{
     border: 0;
